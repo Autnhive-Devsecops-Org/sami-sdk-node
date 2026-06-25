@@ -1,0 +1,27 @@
+wwwroot/*.js
+node_modules
+typings
+dist
+git_push.sh
+.openapi-generator/
+.openapi-generator-ignore
+
+# Developer test files (may contain hardcoded credentials)
+test_multimodal.ts
+
+# Environment / secrets
+.env
+.env.*
+*.env
+
+# Build artifacts
+*.tsbuildinfo
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
