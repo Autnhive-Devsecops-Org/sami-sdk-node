@@ -39,10 +39,10 @@ _published:_
 npm install sami-firewall-client@0.1.0 --save
 ```
 
-_unPublished (not recommended):_
+_install from GitHub:_
 
 ```
-npm install PATH_TO_GENERATED_PACKAGE --save
+npm install https://github.com/Autnhive-Devsecops-Org/sami-sdk-node.git --save
 ```
 
 ### Documentation for API Endpoints
